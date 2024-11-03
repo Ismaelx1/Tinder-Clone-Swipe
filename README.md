@@ -10,7 +10,7 @@ Just like last time, this project isn't deployed into any sort of website, but I
 
 ## 🎥 YouTube video showing the demo:
 
-https://www.youtube.com/watch?v=YOoQXUGv1MU
+<a href="https://www.youtube.com/watch?v=YOoQXUGv1MU" target="_blank" rel="noopener noreferrer">Watch the video on YouTube</a>
 
 
 ## 📸 Screenshots
